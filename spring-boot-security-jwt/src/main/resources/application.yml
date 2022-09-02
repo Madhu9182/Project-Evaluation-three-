@@ -1,0 +1,11 @@
+server:
+  port: 5008
+
+spring:
+  application:
+    name: LOGIN
+
+  cloud:
+    discovery:
+      enabled: true
+
